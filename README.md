@@ -34,9 +34,9 @@ BurgerShop is a Node.js application designed for managing customer orders in an 
 
 1. Clone the repository to your local machine.
 
-2. Install the required dependencies using `npm install`.
+2. Install the required dependencies using `npm install ("nodemon -D", "uuid", "express")`.
 
-3. Start the application using `npm start`.
+3. Start the application using `npm run dev`.
 
 4. Use Insomnia to replicate HTTP requests and review the responses, testing the application's functionality.
 
