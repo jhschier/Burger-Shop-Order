@@ -2,7 +2,7 @@
 
 # BurgerShop - Order Management Application
 
-BurgerShop is a Node.js web application designed for managing customer orders in an imaginary burger restaurant. It leverages the Express framework, UUID for unique order identification, and Nodemon for development convenience. This README provides an overview of the application's features and how to test its functionality using the Insomnia tool.
+BurgerShop is a Node.js application designed for managing customer orders in an imaginary burger restaurant. It leverages the Express framework, UUID for unique order identification, and Nodemon for development convenience. This README provides an overview of the application's features and how to test its functionality using the Insomnia tool.
 
 ## Key Features
 
